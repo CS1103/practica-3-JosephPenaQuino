@@ -1,0 +1,3 @@
+/home/joseph/Documents/s2k191/POO2/Exams/practica-3-JosephPenaQuino/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/joseph/Documents/s2k191/POO2/Exams/practica-3-JosephPenaQuino/cmake-build-debug/CMakeFiles/practica_3_JosephPenaQuino.dir
+/home/joseph/Documents/s2k191/POO2/Exams/practica-3-JosephPenaQuino/cmake-build-debug/CMakeFiles/edit_cache.dir
