@@ -99,6 +99,9 @@
 		<Unit filename="/home/joseph/Documents/s2k191/POO2/Exams/practica-3-JosephPenaQuino/main_test.cpp">
 			<Option target="practica_3_JosephPenaQuino"/>
 		</Unit>
+		<Unit filename="/home/joseph/Documents/s2k191/POO2/Exams/practica-3-JosephPenaQuino/stl_deque.h">
+			<Option target="practica_3_JosephPenaQuino"/>
+		</Unit>
 		<Unit filename="/home/joseph/Documents/s2k191/POO2/Exams/practica-3-JosephPenaQuino/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

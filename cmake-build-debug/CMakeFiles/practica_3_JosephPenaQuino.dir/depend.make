@@ -8,4 +8,5 @@ CMakeFiles/practica_3_JosephPenaQuino.dir/main_test.cpp.o: ../catch.hpp
 CMakeFiles/practica_3_JosephPenaQuino.dir/main_test.cpp.o: ../generic_class.h
 CMakeFiles/practica_3_JosephPenaQuino.dir/main_test.cpp.o: ../main.h
 CMakeFiles/practica_3_JosephPenaQuino.dir/main_test.cpp.o: ../main_test.cpp
+CMakeFiles/practica_3_JosephPenaQuino.dir/main_test.cpp.o: ../stl_deque.h
 
